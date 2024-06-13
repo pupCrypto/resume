@@ -1,0 +1,6 @@
+dt {
+    font-weight: bold;
+}
+.profile-img img {
+    clip-path: circle();
+}
